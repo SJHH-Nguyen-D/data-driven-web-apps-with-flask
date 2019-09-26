@@ -1,0 +1,9 @@
+flask
+click
+itsdangerous
+jinja2
+markupsafe
+pip
+pkg-resources
+setuptools
+werkzeug
